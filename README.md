@@ -35,6 +35,7 @@ Maybe I will add the missing points later..
 - golang setup
 - a mongo database (by now password authentication is not supported)
 - some REST client for testing (optional)
+- beego package `go get github.com/astaxie/beego`
 - mongodm package `go get github.com/zebresel-com/mongodm`
 - beego-response package `go get github.com/zebresel-com/beego-response`
 
