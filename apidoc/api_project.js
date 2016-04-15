@@ -1,0 +1,1 @@
+define({  "name": "mongodm example API",  "version": "0.0.1",  "description": "documentation for mongodm/beego example API",  "apidoc": "0.2.0",  "template": {    "forceLanguage": "en"  },  "sampleUrl": false,  "generator": {    "name": "apidoc",    "time": "2016-04-15T15:04:03.922Z",    "url": "http://apidocjs.com",    "version": "0.13.1"  }});

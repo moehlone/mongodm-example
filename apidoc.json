@@ -1,0 +1,12 @@
+{
+    "name": "mongodm example API",
+    "version": "0.0.1",
+    "description": "documentation for mongodm/beego example API",
+    "apidoc": {
+        "title": "mongodm example API",
+        "url" : "https://github.com/moehlone"
+    },
+    "template": {
+        "forceLanguage": "en"
+    }
+}
