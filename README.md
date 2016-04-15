@@ -20,6 +20,7 @@ There are two controllers (User and Message) where you can create and get someth
 - Response-/Error-Handling
 - Pagination
 - Using namespaces, routers and filters with beego
+- Dealing with a "Base-Controller" in beego
 
 ### You won`t find an implementation for
 
