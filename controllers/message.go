@@ -51,7 +51,7 @@ type MessageController struct {
         "username": "",
         "email": "bob@marley.de",
         "address": {
-          "street": "Liebknechtstraße 55a",
+          "street": "Musterstraße 12",
           "city": "Erfurt",
           "zip": 99085
         }
@@ -66,7 +66,7 @@ type MessageController struct {
           "username": "",
           "email": "bob@marley.de",
           "address": {
-            "street": "Liebknechtstraße 55a",
+            "street": "Musterstraße 12",
             "city": "Erfurt",
             "zip": 99085
           }
@@ -80,7 +80,7 @@ type MessageController struct {
           "username": "",
           "email": "bob@marley.de",
           "address": {
-            "street": "Liebknechtstraße 55a",
+            "street": "Musterstraße 12",
             "city": "Erfurt",
             "zip": 99085
           }
